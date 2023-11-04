@@ -1,0 +1,1 @@
+String xorEncrypt(const String& message) ;
